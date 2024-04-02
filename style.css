@@ -1,0 +1,31 @@
+body{
+background-color:rgb(47, 255, 141);
+}
+h1{
+font-family: "Roboto Condensed", sans-serif;
+background-color: rgb(231, 133, 13);
+color: rgb(236, 240, 9);
+}
+#show_sketch{
+float: right;
+
+}
+#score{
+font-size: 20px;
+font-family: "Roboto Condensed", sans-serif;
+margin-left: 5px;
+}
+#timer{
+float: right;
+font-size: 20px;
+font-family: "Roboto Condensed", sans-serif;
+margin-right: 5px;
+}
+P{
+font-size: 25px;
+font-family: "Roboto Condensed", sans-serif;
+color: black;
+}
+#sketch_to_be_drawn{
+color: red
+}
